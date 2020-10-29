@@ -1,0 +1,13 @@
+.btn-portfolio {
+    background-color: #0332c1;
+    color: white;
+    font-weight: bold;
+    padding: 15px 20px;
+    border-radius: 6px;
+    margin: 30px
+   
+}
+
+.btn-portfolio:hover {
+    opacity: 0.7;
+}
