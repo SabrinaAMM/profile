@@ -3,7 +3,7 @@ body {
     background-image: url("https://images.unsplash.com/photo-1598103586054-c4b456cbddc4?ixlib=rb-1.2.1&auto=format&fit=crop&w=1267&q=80");
     background-size: cover;
     background-position: center;
-    background-repeat: none;
+    background-repeat: no-repeat;
     font-family: Montserrat, sans-serif;
     color: #e7713a;
     font-size: 16px;
